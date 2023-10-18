@@ -6,9 +6,9 @@
 ### <u>Description
 * This is a classic Memory Game, also known as Concentration, designed to test and enhance your memory skills. The game involves flipping pairs of cards to find matching pairs.
 
-* [Wireframe 1](assets/images/Screenshot%202023-10-03%20090850.png)
+* [Wireframe 1](wireframe_1.png)
 
-* [Wireframe 2](assets/images/Screenshot%202023-10-03%20105542.png)
+* [Wireframe 2](wireframe_2.png)
 
 ## Features
 
