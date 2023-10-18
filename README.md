@@ -1,9 +1,9 @@
 # Memory Game
 
-**Link to** [Special needs Car Seats](https://lazarus2179.github.io/Milestone-Project-1/) **website**
+**Link to** [Memory game](https://lazarus2179.github.io/Milestone-Poject-2/) **website**
 
 
-### <u>Description
+### Description
 * This is a classic Memory Game, also known as Concentration, designed to test and enhance your memory skills. The game involves flipping pairs of cards to find matching pairs.
 
 * [Wireframe 1](wireframe_1.png)
@@ -40,14 +40,30 @@
 
 - **Accessibility**: The game is designed with accessibility in mind, making it usable by a wide range of players, including those with disabilities.
 
-## Developer Goals ???
- 
+## Developer Goals
+1) Core Gameplay: Develop the core gameplay logic for the memory game. This includes card shuffling, card matching, and the win condition.
+
+2) Responsive Design: Create a responsive design that adapts to various screen sizes, ensuring an enjoyable user experience on both desktop and mobile devices.
+
+3) Game Timer: Implement a game timer to record the time it takes for the player to complete the game.
+
+4) Move Counter: Add a move counter to keep track of the number of card flips/moves made during the game.
+
 
 ## Frameworks, Libraries & Programs Used
-
-
+* [Google Fonts](https://fonts.google.com/)
+* [GitHub](https://github.com/)
+* [Balsamiq](https://balsamiq.com/)
 
 ## Validator Testing
+<u>HTML</u>
+* No errors has returned when passing through the [W3C CSS Validaton Service](https://jigsaw.w3.org/css-validator/)
+
+<u>CSS</u>
+* No errors were found when passing through the [W3C CSS Validaton Service](https://jigsaw.w3.org/css-validator/)
+
+<u>JS</u>
+* No errors were found when passing through the JavaScript Validator(https://extendsclass.com/javascript-fiddle.html)
 
 
 
@@ -64,25 +80,34 @@ From the source section drop-down menu, select the Master Branch.
 
 
 ## Installation
-
+Memory Game is a website that can be accessed directly through any modern web browser. No installation is required.
 
 
 ## Credits
 
-
-
 ### <u>Media</u>
-
+* Coding ideas from [Code Institute Course](https://codeinstitute.net/), [w3schools](https://www.w3schools.com/)
+* Ideas taken from Youtuber(@CodingArtist)
 
 
 ### <u>Content</u>
-
+* Images taken from [Stick png.com](https://www.stickpng.com/)
 
 ## Acknowledgements
 * My Mentor for continuous helpful feedback.
 
-* Tutor support at Code Institute for their support.
-
 
 ## Contributing
 
+We welcome contributions from the community to help improve _Special needs car seats_ and make it even more valuable for individuals seeking addiction recovery resources. 
+
+If you would like to contribute, please follow these guidelines:
+
+1. Fork the repository. 
+
+2. Make your changes or additions. 
+
+3. Test thoroughly to ensure everything is functioning as expected. 
+4. Submit a pull request, clearly describing the changes you have made and why they are beneficial.
+
+5. Please note that all contributions will be subject to review and approval by the _Special needs Car Seats_ team.
