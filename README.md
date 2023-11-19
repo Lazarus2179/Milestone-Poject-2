@@ -63,12 +63,7 @@
 * No errors were found when passing through the [W3C CSS Validaton Service](https://jigsaw.w3.org/css-validator/)
 
 <u>JS</u>
-* No errors were found when passing through the JavaScript Validator(https://extendsclass.com/javascript-fiddle.html)
-
-
-
-## Unfixed Bugs
-
+* No errors were found when passing through the [JavaScript Validator](https://extendsclass.com/javascript-fiddle.html)
 
 
 ## Deployment 
