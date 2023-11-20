@@ -82,7 +82,7 @@ Memory Game is a website that can be accessed directly through any modern web br
 
 ### <u>Media</u>
 * Coding ideas from [Code Institute Course](https://codeinstitute.net/), [w3schools](https://www.w3schools.com/)
-* Ideas taken from Youtuber(@CodingArtist)
+* Ideas taken from Youtuber[@CodingArtist](https://www.youtube.com/watch?v=dqqxkrKhfS4)
 
 
 ### <u>Content</u>

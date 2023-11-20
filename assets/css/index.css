@@ -24,6 +24,7 @@ body {
   width: 100%;
   display: grid;
   gap: 0.6em;
+  grid-template-columns: repeat(4, auto);
 }
 .stats-container {
   text-align: right;
@@ -128,5 +129,8 @@ height: 5em; /* Adjust card height for smaller screens */
   }
   .card-container {
   height: 5em; /* Adjust card height for smaller screens */
-   }
   }
+  .game-container {
+    grid-template-columns: repeat(2, auto);
+   }
+}

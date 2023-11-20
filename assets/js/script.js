@@ -100,8 +100,7 @@ const matrixGenerator = (cardValues, size = 4) => {
       
   }
   //Grid
-  gameContainer.style.gridTemplateColumns = `repeat(${size},auto)`;
-
+  
   //Cards
   cards = document.querySelectorAll(".card-container");
   cards.forEach((card) => {
